@@ -1,2 +1,1 @@
-Desafio 
-calculadora de alcance de anúncio online.
+Desafio Calculadora de Anuncio Online.
